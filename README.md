@@ -15,7 +15,7 @@
 
 ## 🟢 calc.exe :  
 
-####   This is executable caculator file (no need to have python installed to run this file). 
+####   This is executable calculator file (no need to have python installed to run this file). 
 
 
 
