@@ -23,7 +23,7 @@
 
 # Modules Required :
 
-## 🔶 thinter  
+## 🔶 tkinter
 
 ####  In Built python module
 
